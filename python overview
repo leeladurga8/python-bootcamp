@@ -17,3 +17,18 @@ y= 10.6
 y is of type : <class 'float'>
 In explicit type conversion datatype is manually changed by the user as  per their requirements
 int a =(int)3.89f
+Why indexing starts with zero?
+The more efficient for the computer that an array starts at zero,because computer looks at an array it 
+reads memoryaddress of first element and calculates the rest of the  address by adding the size of 
+each element and along with previous element.suppose first element is at 100 with 4 bytes next 
+address will be  at 104 ,108 and so on....it is very efficient to start at zero.
+what is Static array and Dynamic array?
+In python ,lets know about the static array and dynamic array ,is very important to know about the 
+allocation of memoryworking.
+Static array: A static array is allocated at compile time with a fixed size once its updated 
+it cannot alter the size.
+a_static=[1, 2, 3 ,4]
+ size is 4 fixed, cannot be changed.
+Dynamic array:Dynamic array is allocated in run time can be altered the size at run time means we 
+can change at program execution.
+a_dynamic = [0]*5  
