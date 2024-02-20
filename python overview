@@ -1,2 +1,19 @@
-python is an intrepreted general-purpose or multipurpose high-level programming language.
-python uses intrepreted as a translator used to convert to bytecode line by line
+Python is an intrepreted general-purpose or multipurpose high-level programming language.
+Python uses intrepreted as a translator used to convert to bytecode line by line
+Translator used to take the source code as a input which humans can understand and converts to 
+machine code.
+Dynamically typed language : suppose if we want to declare a variable with datatype ,this datatype 
+can be declare at run time so we called dunamic typed language.
+Variable :variables are containers for storing data values like numbers and characters.
+TypeConversion: Converting one data type to another data type
+there are two types of typeconversion
+1.implicit type conversion
+2.Explicit type conversion
+In implicit type conversion automatically converts one data type to another data type without any user
+involvement.
+x=10
+x is of type:<class 'int'>
+y= 10.6
+y is of type : <class 'float'>
+In explicit type conversion datatype is manually changed by the user as  per their requirements
+int a =(int)3.89f
