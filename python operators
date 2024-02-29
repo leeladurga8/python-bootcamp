@@ -1,0 +1,14 @@
+python divides the operators as the following:
+a. Arthimetic operator
+b. Logical operator
+c. Assignment operator
+d. Comparision operator
+e. Identity operator
+f. Membership operator
+g. Bitwise operator
+a.Arthimetic operator:  IN this operator we have addition(x+y), subtraction(x-y),multiplication(x*y),Division(x/y),modulus(x%y),exponentiation(x**y),
+floor division(x//y).
+b.Logical operator: In this operator we have logical and ,logical or,logical not .
+logical and :it returns true if both statements are true ,ex: x<5 and y<15.
+logical or : it returns true if one of the statements is true. x=5 0r x>8.
+logical not : it returns false if statements is true not(x<5 and y<10).
