@@ -1,2 +1,14 @@
 python PEP8:
-python Enhancement proposal:PEP8 is a style guide fro python code
+python Enhancement proposal:PEP8 is a style guide fro python code.writing code with good logic is crucial
+in programming,but many other aspects makes quality of the  code readable and consistent. 
+INDENTATION:In python, unlike other programming languages,indentation is utilized to define code blocks.
+The level of lines of code is determined by indentation  which are an important feature of programming 
+language.
+NAMING CONVENTION: To make the programm less dificult and more readable a few naming standards should
+be observed.
+single lowercase     n = 2
+single uppercase     N = 2
+lowercase            num = 2
+lowercase with underscore  input_number = 2
+uppercase    NUM = 2
+uppercase with underscore INPUT_NUMBER = 2
