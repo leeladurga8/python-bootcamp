@@ -12,3 +12,12 @@ b.Logical operator: In this operator we have logical and ,logical or,logical not
 logical and :it returns true if both statements are true ,ex: x<5 and y<15.
 logical or : it returns true if one of the statements is true. x=5 0r x>8.
 logical not : it returns false if statements is true not(x<5 and y<10).
+c. Assignment operator:It is used to assign values to variables.
+In this operator we have =  a = 6;
+a+=7 => a = a+7; 
+a-= =>a = a-8; 
+a*=7 => a = a*7 ;
+a/=5 => a = a/5 ;
+a%= => a = a % 5  ; 
+a **= 3 => a = a **3
+d. comparision operator: 
