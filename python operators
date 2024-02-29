@@ -20,4 +20,5 @@ a*=7 => a = a*7 ;
 a/=5 => a = a/5 ;
 a%= => a = a % 5  ; 
 a **= 3 => a = a **3
-d. comparision operator: 
+d. comparision operator: it is used to compare two values
+        x == y ;   x != y ; x > y ; x < y ; x <= y ; x >= y ; 
